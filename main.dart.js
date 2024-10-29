@@ -19418,8 +19418,8 @@ s.ay$=k
 l=k}s.KK(new A.uR(p,B.CR,o,l,j))
 s.zT()},
 nj(a,b){return new A.rN(b,a)},
-Nv(a,b,c){var s=null,r=A.d9(a,A.c9(s,s,B.i,s,s,s,s,s,s,s,s,c/50,s,s,s,s,s,!0,s,s,s,s,s,s,s,s)),q=A.ade(s,s)
-q.bt=new A.Nw(b)
+Nv(a,b,c,d){var s=null,r=A.d9(a,A.c9(s,s,B.i,s,s,s,s,s,s,s,s,d/50,s,s,s,s,s,!0,s,s,s,s,s,s,s,s)),q=A.ade(s,s)
+q.bt=new A.Nw(c)
 return A.kr(A.b([r,A.Xo(s,s,s,B.c8,s,s,!0,s,A.o1(A.b([A.o1(s,q,B.Hx,b)],t.Ff),s,s,s),B.az,s,s,B.al,B.aA)],t.F),B.ad,B.a7)},
 a5z(a){var s=0,r=A.P(t.H)
 var $async$a5z=A.Q(function(b,c){if(b===1)return A.M(c,r)
@@ -60082,8 +60082,8 @@ $2(a,b){var s=null,r=$.a9V()[b],q=this.a,p=A.d9(r.a,A.c9(s,s,B.i,s,s,s,s,s,s,s,s
 return A.nR(A.abS(A.d9(r.b,A.c9(s,s,B.oL,s,s,s,s,s,s,s,s,q/80,s,s,s,s,s,!0,s,s,s,s,s,s,s,s)),p),s,q/4)},
 $S:396}
 A.Ao.prototype={
-M(a){var s=null,r=A.bH(a,s,t.w).w.a.a,q=A.d9("Get in Touch",A.c9(s,s,B.i,s,s,s,s,s,s,s,s,r/22,s,s,s,s,s,!0,s,s,s,s,s,s,s,s)),p=r/2,o=t.F,n=A.pV(s,A.kr(A.b([A.Nv("LinkedIn","linkedin.com/in/joseph-sameh",r),B.aS,A.Nv("GitHub","https://github.com/Joseph-Sameh-0",r),B.aS,A.Nv("Email","joseph.sameh.fouad@gmail.com",r),B.aS,A.Nv("Phone","+201118295474",r)],o),B.ad,B.a7),s,s,s,s,s,p)
-return A.kr(A.b([q,B.Gw,A.CS(A.b([n,A.a7B("assets/images/joseph_sameh.jpg",s,r>1300?r/4:p,s)],o),B.av,B.aP)],o),B.ad,B.a7)}}
+M(a){var s=null,r=A.bH(a,s,t.w).w.a.a,q=t.F
+return A.kr(A.b([A.d9("Get in Touch",A.c9(s,s,B.i,s,s,s,s,s,s,s,s,r/22,s,s,s,s,s,!0,s,s,s,s,s,s,s,s)),B.Gw,A.CS(A.b([A.pV(s,A.kr(A.b([A.Nv("LinkedIn","linkedin.com/in/joseph-sameh","https://www.linkedin.com/in/joseph-sameh",r),B.aS,A.Nv("GitHub","github.com/Joseph-Sameh-0","https://github.com/Joseph-Sameh-0",r),B.aS,A.Nv("Email","joseph.sameh.fouad@gmail.com","mailto:joseph.sameh.fouad@gmail.com",r),B.aS,A.Nv("Phone","+201118295474","tel:+201118295474",r)],q),B.ad,B.a7),s,s,s,s,s,r/2),A.a7B("assets/images/joseph_sameh.jpg",s,r/4,s)],q),B.av,B.aP)],q),B.ad,B.a7)}}
 A.Nw.prototype={
 $0(){A.a5z(A.ii(this.a,0,null))},
 $S:0}
@@ -65129,7 +65129,7 @@ i=j[2]
 h=[400*d/(d+27.13),400*c/(c+27.13),400*i/(i+27.13)]
 return new A.a_J(l,(40*h[0]+20*h[1]+h[2])/20*k,k,k,a1,1,q,m,A.xU(m,0.25),1.48+e)})
 s($,"awj","a9W",()=>A.b([A.nj("Android Kotlin mobile app, with local database","TODO app"),A.nj("made with (HTML, CSS, Js, Django framework, SQLite)","Job search web app"),A.nj("made with (C#, MS SQL server)","Faculty system windows forms Desktop app"),A.nj("made with (Kotlin, Firebase)","E-Commerce app")],A.a7("u<rN>")))
-s($,"awi","a9V",()=>A.b([A.nj("I develop robust desktop applications using\nWindows Forms, integrated with MS SQL\nServer for seamless data management.","Windows Forms\nApplications"),A.nj("I create dynamic web applications using\nHTML, CSS, JavaScript, and Django, with\nSQLite as the backend database for\nstreamlined data storage.","Web Applications"),A.nj("I build efficient Android applications with local\ndatabases or Firebase for cloud-based storage\nand real-time synchronization.","Android Kotlin Applications")],A.a7("u<rN>")))
+s($,"awi","a9V",()=>A.b([A.nj("I develop robust desktop applications using Windows Forms, integrated with MS SQL Server for seamless data management.","Windows Forms\nApplications"),A.nj("I create dynamic web applications using HTML, CSS, JavaScript, and Django, with SQLite as the backend database for streamlined data storage.","Web Applications"),A.nj("I build efficient Android applications with local databases or Firebase for cloud-based storage and real-time synchronization.","Android Kotlin Applications")],A.a7("u<rN>")))
 s($,"atv","a6x",()=>A.ab8())
 s($,"aud","a9E",()=>new A.C())
 r($,"anD","agW",()=>{var q=new A.UF()
